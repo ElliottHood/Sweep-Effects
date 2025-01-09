@@ -1,0 +1,19 @@
+{
+    "name": "com.shellter.sweep-effects",
+    "version": "1.0.0",
+    "displayName": "Sweep Effects",
+    "description": "Animating effect timings based on an effect's position in the scene.",
+    "unity": "2022.3",
+    "author": {
+      "name": "Elliott Hood",
+      "email": "elliotthood0@gmail.com",
+      "url": "https://elliott-hood.com"
+    },
+    "samples": [
+      {
+        "displayName": "Sweep Effect Demo",
+        "description": "A sample scene to demonstrate the package. Requires HOTween (https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676#description)",
+        "path": "Samples~/Sample Scene"
+      }
+    ]
+}  
